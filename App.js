@@ -7,7 +7,6 @@ const App = () => {
     <View style={style.container}>
       <StatusBar barStyle="light-content" />
       <MusicPlayer />
-      heloword
     </View>
   );
 };
